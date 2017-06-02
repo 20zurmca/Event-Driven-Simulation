@@ -1,5 +1,6 @@
 # Event-Driven-Simulation
 A project that represents a day at a coffee shop
+
 DOCUMENTATION: file:///C:/Users/camer/Desktop/CS150/Project_1/doc/index.html
 
 This project contains an event driven simulation of customers coming into a store.  Data Structures used: Priority Queue, ArrayList, LinkedList, Queue.
