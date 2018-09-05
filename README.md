@@ -12,4 +12,5 @@ alternative: java Launcher (this class expects arguments: int cashierCount, doub
 
 ## Demonstration 
 <b> Launching the program </b>
-<img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/CommandLine.PNG" alt = "Command Line Demonstration />
+![alt text](http://url/to/img.png)
+<img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/CommandLine.PNG" alt = "Command Line Demonstration" />
