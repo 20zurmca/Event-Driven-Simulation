@@ -14,7 +14,7 @@ alternative: java Launcher (this class expects arguments: int cashierCount, doub
 <p><b> Launching the program </b></p>
 <img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/CommandLine.PNG" alt = "Command Line Demonstration" />
 
-<p><b> Running the simulation </b></p>
+<p><b> Running the simulation (abbreviated) </b></p>
 <img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/Processing.PNG" alt = "running the simulation" />
 
 <p><b> Averaging Results </b></p>
