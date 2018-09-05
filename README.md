@@ -11,6 +11,12 @@ to run on command line: java ExperimentController (this class has hardcoded para
 alternative: java Launcher (this class expects arguments: int cashierCount, double Profit, double Cost, double rateOfService, double Lamda)
 
 ## Demonstration 
-<b> Launching the program </b>
-![alt text](http://url/to/img.png)
+<p><b> Launching the program </b></p>
 <img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/CommandLine.PNG" alt = "Command Line Demonstration" />
+
+<p><b> Running the simulation </b></p>
+<img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/Processing.PNG" alt = "running the simulation" />
+
+<p><b> Averaging Results </b></p>
+<img src = "https://github.com/20zurmca/Event-Driven-Simulation/blob/master/Demo/AverageResults.PNG" alt = "averaging results" />
+
