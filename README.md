@@ -8,7 +8,7 @@ Otherwise, they are sent away as overflow.  After the simulation, appropriate st
 a poisson distribution for their arrivals (with mean lambda), and the cashiers' service rate follows an exponential distribution specificed by rateOfService. 
 
 to run on command line: java ExperimentController (this class has hardcoded parameters)
-alternative: java Launcher (this class expects arguments: int cashierCount, double Profit, double Cost, double rateOfService, double Lamda)
+alternative: java Launcher (this class expects arguments: int cashierCount, double profitPerCustomer, double costPerCashier, double rateOfService, double customerArrivalRate)
 
 ## Demonstration 
 <p><b> Launching the program </b></p>
